@@ -1,7 +1,10 @@
-<body>
-  <script>
-    function Hello() {
-      }
-  </script>
-  <h1>Привет!</h1>
-</body>
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Заголовок страницы</title>
+  </head>
+  <body>
+     <div>Привет!</div>
+  </body>
+</html>

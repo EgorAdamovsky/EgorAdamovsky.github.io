@@ -1,4 +1,7 @@
 <body>
-  <script src="script.js"></script>
+  <script>
+    function Hello() {
+      }
+  </script>
   <h1>Привет!</h1>
 </body>

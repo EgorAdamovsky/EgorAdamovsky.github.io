@@ -1,0 +1,15 @@
+button {
+    border: gray solid 1px;
+}
+
+#root {
+    background-color: darkgrey;
+    border: black solid 2px;
+    height: 750px;
+    width: 750px;
+}
+
+#info {
+    width: 750px;
+    text-align: center;
+}
